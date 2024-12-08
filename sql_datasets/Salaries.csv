@@ -1,0 +1,201 @@
+EmployeeID,JobTitle,Salary,YearsOfExperience,PerformanceScore,Status
+E1000,Sales Manager,122007.47,10,4.79,On Leave
+E1001,Marketing Analyst,98857.78,19,2.22,Resigned
+E1002,Data Scientist,125816.47,19,2.97,Resigned
+E1003,Data Scientist,119060.93,16,1.39,Active
+E1004,Data Scientist,114590.29,5,4.55,Resigned
+E1005,HR Specialist,99082.13,15,1.54,Resigned
+E1006,Marketing Analyst,129293.29,18,2.81,Resigned
+E1007,Data Scientist,59305.34,16,3.68,On Leave
+E1008,Data Scientist,72159.64,12,3.97,Active
+E1009,Marketing Analyst,119178.72,11,4.78,On Leave
+E1010,Data Scientist,80620.6,18,2.68,Resigned
+E1011,Marketing Analyst,108155.56,18,3.97,Active
+E1012,Sales Manager,97326.05,13,1.62,On Leave
+E1013,Marketing Analyst,103092.19,15,2.66,Active
+E1014,Marketing Analyst,92550.38,11,1.4,On Leave
+E1015,HR Specialist,124593.54,7,2.96,Active
+E1016,Sales Manager,83079.13,8,2.63,On Leave
+E1017,HR Specialist,120285.49,19,4.81,Resigned
+E1018,Data Scientist,77091.64,13,1.13,On Leave
+E1019,Marketing Analyst,75140.37,8,2.48,Resigned
+E1020,Sales Manager,62065.59,14,2.77,On Leave
+E1021,HR Specialist,69258.43,2,4.8,Resigned
+E1022,Marketing Analyst,61955.47,11,4.42,Resigned
+E1023,Software Engineer,103586.4,16,1.4,On Leave
+E1024,HR Specialist,126218.96,13,3.74,On Leave
+E1025,Sales Manager,68514.98,13,3.18,Active
+E1026,HR Specialist,71638.46,5,4.91,On Leave
+E1027,HR Specialist,98419.86,16,2.43,Active
+E1028,HR Specialist,122458.5,2,2.59,On Leave
+E1029,Data Scientist,147660.7,5,1.76,Active
+E1030,Software Engineer,102463.69,17,1.49,Resigned
+E1031,Sales Manager,78299.87,19,4.39,On Leave
+E1032,Sales Manager,60052.61,11,2.82,Resigned
+E1033,Sales Manager,69411.76,4,3.65,On Leave
+E1034,Marketing Analyst,72748.32,15,3.57,Active
+E1035,Sales Manager,67944.15,4,3.39,On Leave
+E1036,Sales Manager,51414.84,17,1.09,Active
+E1037,Software Engineer,103413.51,15,4.15,Active
+E1038,Marketing Analyst,77431.13,1,1.97,On Leave
+E1039,Marketing Analyst,147429.49,5,1.5,Resigned
+E1040,HR Specialist,105335.9,14,3.26,On Leave
+E1041,Data Scientist,119741.74,5,1.27,Resigned
+E1042,Marketing Analyst,62627.95,3,4.06,Active
+E1043,Marketing Analyst,136846.12,16,1.83,On Leave
+E1044,Software Engineer,99087.87,9,1.86,On Leave
+E1045,Sales Manager,137271.97,11,4.48,Resigned
+E1046,Marketing Analyst,107406.42,20,2.31,On Leave
+E1047,Marketing Analyst,96939.69,13,1.59,Active
+E1048,Data Scientist,94046.88,3,4.6,On Leave
+E1049,Software Engineer,68436.37,11,1.01,Active
+E1050,Data Scientist,55137.67,18,4.43,Active
+E1051,Marketing Analyst,144106.36,13,1.58,Resigned
+E1052,Marketing Analyst,97772.92,11,1.52,Resigned
+E1053,Software Engineer,132211.56,16,2.0,Active
+E1054,HR Specialist,90070.74,18,1.7,Resigned
+E1055,HR Specialist,57408.22,2,3.64,Resigned
+E1056,Marketing Analyst,112944.57,20,1.1,Active
+E1057,Marketing Analyst,55360.91,3,1.06,On Leave
+E1058,Data Scientist,64919.76,8,4.16,On Leave
+E1059,Data Scientist,106283.96,10,1.95,Resigned
+E1060,Data Scientist,80383.55,8,2.3,Resigned
+E1061,Sales Manager,149391.81,3,1.7,Active
+E1062,Marketing Analyst,61845.16,14,1.21,Active
+E1063,Sales Manager,126444.34,4,3.97,Active
+E1064,HR Specialist,110631.77,4,3.1,Active
+E1065,Marketing Analyst,129074.08,15,3.98,On Leave
+E1066,Marketing Analyst,72568.71,6,2.9,Active
+E1067,Software Engineer,102257.25,10,4.11,Active
+E1068,Marketing Analyst,95051.45,1,3.05,Resigned
+E1069,HR Specialist,94272.1,2,1.44,Active
+E1070,Marketing Analyst,136016.67,11,3.02,Resigned
+E1071,Sales Manager,149003.13,2,4.78,Active
+E1072,Marketing Analyst,80538.02,10,1.17,Active
+E1073,Sales Manager,112102.73,12,4.13,Resigned
+E1074,Data Scientist,110963.09,12,4.47,On Leave
+E1075,Data Scientist,124008.93,14,3.09,On Leave
+E1076,Software Engineer,144759.02,5,2.83,Resigned
+E1077,Marketing Analyst,70778.79,8,4.86,Resigned
+E1078,Data Scientist,71102.52,17,1.24,On Leave
+E1079,Data Scientist,116042.81,14,2.92,Resigned
+E1080,Software Engineer,65705.71,19,2.61,Resigned
+E1081,Software Engineer,67381.35,6,3.74,Resigned
+E1082,Marketing Analyst,57506.49,6,2.96,Resigned
+E1083,Sales Manager,50267.57,6,4.64,Resigned
+E1084,Marketing Analyst,95050.37,3,1.29,On Leave
+E1085,Sales Manager,109381.12,20,1.32,Resigned
+E1086,Software Engineer,79125.93,13,3.43,On Leave
+E1087,HR Specialist,73147.62,20,1.26,Active
+E1088,Marketing Analyst,120695.58,8,2.1,On Leave
+E1089,HR Specialist,120298.76,16,3.53,Active
+E1090,Sales Manager,95403.13,19,3.19,On Leave
+E1091,Marketing Analyst,118738.49,5,2.3,On Leave
+E1092,HR Specialist,142391.1,8,4.98,Resigned
+E1093,HR Specialist,128782.8,15,3.12,On Leave
+E1094,Marketing Analyst,112505.8,9,2.81,On Leave
+E1095,HR Specialist,116118.3,15,3.42,Resigned
+E1096,Marketing Analyst,143366.85,9,1.4,Active
+E1097,HR Specialist,92513.9,1,3.81,On Leave
+E1098,Software Engineer,104456.24,15,4.41,Resigned
+E1099,Marketing Analyst,114763.47,10,3.6,Active
+E1100,Software Engineer,140841.14,18,4.08,On Leave
+E1101,Data Scientist,132663.12,6,3.88,On Leave
+E1102,Software Engineer,57140.98,3,1.86,On Leave
+E1103,HR Specialist,66592.28,15,2.81,Active
+E1104,Sales Manager,80761.18,12,1.91,Active
+E1105,Software Engineer,124895.77,19,2.36,On Leave
+E1106,Software Engineer,106920.7,10,2.81,On Leave
+E1107,Software Engineer,78861.06,14,2.66,Active
+E1108,Sales Manager,62435.37,9,1.38,Resigned
+E1109,Sales Manager,118867.8,15,2.71,Active
+E1110,Software Engineer,119973.37,10,3.66,Resigned
+E1111,Data Scientist,144267.62,7,2.5,Resigned
+E1112,Sales Manager,100047.22,13,1.61,Resigned
+E1113,Sales Manager,99379.52,16,4.69,On Leave
+E1114,Sales Manager,58044.19,4,1.27,On Leave
+E1115,Marketing Analyst,53986.08,8,4.33,Resigned
+E1116,Software Engineer,93202.87,13,1.37,Resigned
+E1117,Data Scientist,82232.16,19,1.39,Resigned
+E1118,Sales Manager,75036.79,12,3.96,Active
+E1119,Marketing Analyst,59132.69,19,4.25,On Leave
+E1120,HR Specialist,146191.11,10,3.23,Resigned
+E1121,HR Specialist,133595.86,10,3.35,Resigned
+E1122,Sales Manager,107519.91,1,3.25,Active
+E1123,Data Scientist,145078.63,13,2.32,On Leave
+E1124,Data Scientist,149957.24,9,1.49,Resigned
+E1125,Software Engineer,117228.16,1,2.41,On Leave
+E1126,Sales Manager,76951.1,19,3.66,Resigned
+E1127,HR Specialist,54023.17,2,4.0,Active
+E1128,Software Engineer,125626.88,20,4.47,Active
+E1129,Data Scientist,97050.08,16,3.88,On Leave
+E1130,Software Engineer,115150.95,10,4.87,Active
+E1131,HR Specialist,141607.28,8,3.4,On Leave
+E1132,Data Scientist,68148.91,20,2.41,Resigned
+E1133,Marketing Analyst,108532.96,12,3.31,Active
+E1134,Marketing Analyst,113478.47,8,1.85,Resigned
+E1135,Sales Manager,99172.58,7,3.63,Resigned
+E1136,Software Engineer,59124.24,20,1.9,Active
+E1137,Data Scientist,84796.11,9,1.43,Active
+E1138,Sales Manager,83330.84,5,4.38,Active
+E1139,Software Engineer,117013.35,4,2.47,Resigned
+E1140,HR Specialist,135773.31,2,4.05,On Leave
+E1141,Data Scientist,82980.37,10,3.3,On Leave
+E1142,Software Engineer,119367.37,15,4.23,Resigned
+E1143,Data Scientist,78821.78,2,4.38,Resigned
+E1144,Software Engineer,144519.35,19,4.9,Resigned
+E1145,HR Specialist,131356.6,12,4.27,Active
+E1146,Data Scientist,105009.66,5,3.45,On Leave
+E1147,Marketing Analyst,95482.59,3,3.57,On Leave
+E1148,HR Specialist,81451.72,10,1.11,On Leave
+E1149,Software Engineer,82327.38,11,4.72,On Leave
+E1150,Data Scientist,147018.47,14,4.32,On Leave
+E1151,HR Specialist,90417.51,6,2.07,On Leave
+E1152,Software Engineer,101459.63,7,1.72,Resigned
+E1153,Marketing Analyst,148811.92,5,3.81,Resigned
+E1154,Marketing Analyst,115766.04,18,2.24,Active
+E1155,Software Engineer,104259.36,12,2.36,Resigned
+E1156,Marketing Analyst,91324.76,17,1.02,Resigned
+E1157,HR Specialist,68758.25,17,4.48,On Leave
+E1158,Marketing Analyst,86177.94,9,3.27,Active
+E1159,Sales Manager,125644.32,6,2.6,On Leave
+E1160,Marketing Analyst,112540.87,9,1.57,Active
+E1161,Sales Manager,125999.05,16,3.53,Resigned
+E1162,Data Scientist,70355.82,10,1.12,Resigned
+E1163,HR Specialist,104921.96,11,3.98,On Leave
+E1164,Data Scientist,142767.28,4,1.86,On Leave
+E1165,Data Scientist,93811.61,15,2.68,On Leave
+E1166,Marketing Analyst,119825.0,3,2.36,Resigned
+E1167,Marketing Analyst,62142.61,5,2.48,Resigned
+E1168,Marketing Analyst,147314.68,8,3.89,Resigned
+E1169,Data Scientist,110887.17,13,4.11,Active
+E1170,HR Specialist,73929.75,18,3.27,On Leave
+E1171,HR Specialist,65837.82,12,1.34,Active
+E1172,Sales Manager,105083.9,3,1.21,Resigned
+E1173,Software Engineer,105225.14,13,1.63,Resigned
+E1174,HR Specialist,59320.92,1,3.47,Active
+E1175,Marketing Analyst,149225.71,9,3.7,On Leave
+E1176,Sales Manager,141292.99,18,2.09,On Leave
+E1177,Marketing Analyst,96144.79,4,3.65,Resigned
+E1178,Data Scientist,61746.61,15,2.94,Resigned
+E1179,Data Scientist,133214.32,12,2.77,Resigned
+E1180,Marketing Analyst,99837.55,9,2.09,On Leave
+E1181,HR Specialist,121660.33,19,4.02,Active
+E1182,Software Engineer,100887.2,13,1.46,Resigned
+E1183,Marketing Analyst,77342.49,12,2.72,Resigned
+E1184,HR Specialist,133472.39,4,2.13,Active
+E1185,Sales Manager,148024.46,8,3.71,On Leave
+E1186,Marketing Analyst,74373.09,16,2.95,Resigned
+E1187,Sales Manager,105126.51,1,3.67,On Leave
+E1188,HR Specialist,88358.6,20,1.18,Resigned
+E1189,HR Specialist,142186.81,18,2.58,On Leave
+E1190,HR Specialist,100824.09,11,3.4,Active
+E1191,HR Specialist,137932.63,20,1.03,Resigned
+E1192,Data Scientist,136402.69,8,2.21,Resigned
+E1193,HR Specialist,77624.74,3,1.84,Resigned
+E1194,Data Scientist,129000.62,15,1.55,Resigned
+E1195,Software Engineer,91494.24,10,2.02,Resigned
+E1196,Data Scientist,143424.84,14,2.31,Active
+E1197,Sales Manager,100773.77,4,1.03,Resigned
+E1198,Software Engineer,132054.95,5,3.99,Resigned
+E1199,Sales Manager,78283.9,2,1.7,On Leave
