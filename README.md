@@ -26,6 +26,13 @@
 # 551 Project.py:
 This Python script serves as a menu-driven interface that allows users to execute separate implementations for SQL and NoSQL functionalities. Users can choose between running SQL-related scripts, NoSQL-related scripts, or exiting the program.
 
+# File structure:
+551 Project.py- main file
+NoSQL_implementation.py- for NoSQL implemnetation
+sql_implementation.py- for sql implementation
+Nosql_datasets - datatsets used for NoSQL implementation in the code
+sql_datasets - datatsets used for SQL implementation in the code
+
 # Features
 1) SQL Implementation:
 Executes the script for SQL functionalities.
