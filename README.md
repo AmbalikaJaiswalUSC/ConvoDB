@@ -1,7 +1,5 @@
 # ConvoDB
 
-## Installation
-
 ## Setup Instructions
    
 ### Prerequisites
